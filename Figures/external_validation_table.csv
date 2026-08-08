@@ -1,0 +1,5 @@
+Disease,External Dataset,Dataset Distribution,Optimized Threshold,AUC,Accuracy (%),Sensitivity (%),Specificity (%)
+DR,Messidor‑2,1017 / 727,0.5,0.8364,78.3,70.3,84.1
+Glaucoma,REFUGE2,360 / 40,0.98,0.8995,89.0,80.0,90.0
+AMD,OCT2017,250 / 500,0.5,1.0,99.9,99.8,100.0
+DED,Roboflow Dry Eye Dataset,50 / 89,0.539,0.7126,63.3,56.2,76.0

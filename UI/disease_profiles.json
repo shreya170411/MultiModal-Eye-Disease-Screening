@@ -1,0 +1,265 @@
+{
+  "DR": {
+    "name": "Diabetic Retinopathy",
+    "short_description": "A diabetes-related eye condition that affects the retina and can lead to vision problems if not detected early.",
+    "what_is_it": "Diabetic retinopathy is an eye condition that occurs when high blood sugar levels damage the tiny blood vessels in the retina, the light-sensitive tissue at the back of the eye. Over time, these blood vessels can weaken, leak, or become blocked, which may affect vision. In more advanced stages, abnormal new blood vessels may form on the retina.",
+    "why_it_occurs": "The condition develops due to long-term elevated blood glucose levels associated with diabetes. Chronic hyperglycemia can damage the walls of retinal blood vessels, causing them to leak fluid or blood. Over time, reduced blood supply to the retina can stimulate the growth of fragile new vessels that may further impair vision.",
+    "commonly_seen_in": "Diabetic retinopathy is most commonly seen in individuals who have had diabetes for many years, particularly when blood sugar levels are not well controlled. It can occur in both Type 1 and Type 2 diabetes.",
+    "common_symptoms": [
+      "Blurred or fluctuating vision",
+      "Dark spots or floaters in the field of vision",
+      "Difficulty seeing at night",
+      "Areas of vision loss",
+      "In some cases, early stages may have no noticeable symptoms"
+    ],
+    "risk_factors": [
+      "Long duration of diabetes",
+      "Poor blood sugar control",
+      "High blood pressure",
+      "High cholesterol levels",
+      "Pregnancy in individuals with diabetes",
+      "Smoking"
+    ],
+    "early_detection_importance": "Diabetic retinopathy often develops gradually and may not cause noticeable symptoms in its early stages. Regular eye examinations can help detect changes in the retina before significant vision problems occur, allowing timely medical management.",
+    "lifestyle_considerations": [
+      "Maintain healthy blood sugar levels",
+      "Attend regular eye screening appointments",
+      "Adopt a balanced diet and regular physical activity",
+      "Manage blood pressure and cholesterol levels",
+      "Avoid smoking"
+    ],
+    "when_to_seek_clinician": "Individuals with diabetes are generally encouraged to undergo routine eye examinations as recommended by their healthcare provider. If changes in vision such as blurriness, floaters, or dark areas appear, consulting an eye care professional is recommended.",
+    "disclaimer": "This information is intended for educational purposes only and should not be considered medical advice or a diagnosis. A qualified healthcare professional should be consulted for clinical evaluation."
+  },
+
+  "Glaucoma": {
+    "name": "Glaucoma",
+    "short_description": "A group of eye conditions that can damage the optic nerve, often associated with increased pressure inside the eye.",
+    "what_is_it": "Glaucoma refers to a group of eye diseases that gradually damage the optic nerve, which is responsible for transmitting visual information from the eye to the brain. This damage can lead to progressive vision loss if not detected and managed early.",
+    "why_it_occurs": "In many cases, glaucoma develops when the pressure inside the eye (intraocular pressure) becomes higher than normal. This pressure can occur when fluid within the eye does not drain properly. Over time, increased pressure may damage the optic nerve fibers.",
+    "commonly_seen_in": "Glaucoma can occur in people of all ages but is more commonly seen in adults over the age of 40. Individuals with a family history of glaucoma may have a higher risk.",
+    "common_symptoms": [
+      "Gradual loss of peripheral (side) vision",
+      "Tunnel vision in advanced stages",
+      "Eye discomfort or pressure in some forms",
+      "Often no noticeable symptoms in early stages"
+    ],
+    "risk_factors": [
+      "Age over 40",
+      "Family history of glaucoma",
+      "High intraocular pressure",
+      "Certain medical conditions such as diabetes",
+      "Long-term use of steroid medications",
+      "Thin cornea"
+    ],
+    "early_detection_importance": "Glaucoma is often called the 'silent thief of sight' because it can progress without noticeable symptoms in early stages. Regular eye examinations help detect early changes in eye pressure or optic nerve health.",
+    "lifestyle_considerations": [
+      "Attend routine comprehensive eye examinations",
+      "Maintain overall health through balanced nutrition",
+      "Engage in regular physical activity",
+      "Follow medical advice if diagnosed with elevated eye pressure"
+    ],
+    "when_to_seek_clinician": "Routine eye examinations are recommended, especially for individuals with risk factors such as family history or increasing age. If vision changes or eye discomfort occurs, consultation with an eye care professional is advised.",
+    "disclaimer": "This information is educational in nature and should not replace professional medical advice. Diagnosis and treatment decisions should be made by qualified healthcare providers."
+  },
+
+  "Fundus_Normal": {
+  "name": "No Detectable Retinal Disease",
+  "short_description": "The retinal image appears to be within normal limits with no obvious signs of major retinal disease.",
+  "what_is_it": "A normal fundus examination indicates that the structures at the back of the eye — including the retina, optic disc, blood vessels, and macula — appear healthy and do not show visible signs of common retinal diseases such as diabetic retinopathy or glaucoma.",
+  "why_it_occurs": "When the retina and optic nerve remain healthy, the blood vessels maintain normal structure and there are no abnormal deposits, bleeding, swelling, or nerve damage visible in the retinal image.",
+  "commonly_seen_in": "Normal fundus findings are commonly observed in individuals with good overall eye health, regular eye examinations, and absence of major systemic conditions affecting the eye.",
+  "common_symptoms": [
+    "Clear central and peripheral vision",
+    "No visual distortion",
+    "No floaters or unusual visual spots",
+    "Stable vision in both eyes"
+  ],
+  "risk_factors": [
+    "Although the eye currently appears healthy, conditions such as diabetes, high blood pressure, or aging can still affect retinal health over time."
+  ],
+  "early_detection_importance": "Even when the retina appears normal, regular eye examinations are important because some eye diseases can develop gradually and may not show symptoms initially.",
+  "lifestyle_considerations": [
+    "Maintain regular eye check-ups",
+    "Control blood pressure and blood sugar levels",
+    "Follow a balanced diet rich in vitamins beneficial for eye health",
+    "Protect eyes from excessive sunlight exposure"
+  ],
+  "when_to_seek_clinician": "If you notice changes in vision, blurred sight, flashes of light, or persistent floaters, an eye care professional should be consulted even if previous examinations were normal.",
+  "disclaimer": "This result indicates that no obvious abnormalities were detected in this image. It does not replace a comprehensive eye examination performed by a qualified eye care professional."
+  },
+
+  "AMD": {
+    "name": "Age-related Macular Degeneration (AMD)",
+    "short_description": "A condition affecting the central part of the retina (macula) that can impact sharp, detailed vision.",
+    "what_is_it": "Age-related macular degeneration (AMD) is a retinal condition that affects the macula, the central portion of the retina responsible for detailed and central vision. AMD can make tasks such as reading, recognizing faces, and driving more difficult.",
+    "why_it_occurs": "AMD is associated with aging and changes in the macula. In the early stages, deposits called drusen may accumulate beneath the retina. In some cases, abnormal blood vessels may grow beneath the retina, which can leak fluid or blood and affect vision.",
+    "commonly_seen_in": "AMD primarily occurs in adults aged 50 years and older. It is one of the leading causes of vision impairment among older individuals in many parts of the world.",
+    "common_symptoms": [
+      "Blurred or distorted central vision",
+      "Straight lines appearing wavy",
+      "Difficulty recognizing faces",
+      "Dark or empty areas in central vision",
+      "In early stages, symptoms may be mild or absent"
+    ],
+    "risk_factors": [
+      "Increasing age",
+      "Family history of AMD",
+      "Smoking",
+      "High blood pressure",
+      "Poor dietary habits",
+      "Prolonged exposure to ultraviolet light"
+    ],
+    "early_detection_importance": "Regular eye examinations can help detect early signs of AMD. Early identification may allow individuals to take steps that support eye health and monitor disease progression.",
+    "lifestyle_considerations": [
+      "Adopt a diet rich in leafy greens and fruits",
+      "Avoid smoking",
+      "Wear protective eyewear in bright sunlight",
+      "Attend regular eye check-ups"
+    ],
+    "when_to_seek_clinician": "If individuals notice distortion in central vision or difficulty with detailed tasks such as reading, an eye examination with an ophthalmologist or optometrist is recommended.",
+    "disclaimer": "This description is intended for educational purposes and should not be interpreted as medical advice or diagnosis. Professional medical consultation is recommended for eye health concerns."
+  },
+
+  "OCT_Normal": {
+  "name": "No Detectable Macular Abnormality",
+  "short_description": "The OCT scan does not show clear signs of macular degeneration or structural abnormalities.",
+  "what_is_it": "A normal Optical Coherence Tomography (OCT) scan suggests that the retinal layers, particularly the macula, appear structurally intact. The macula is responsible for detailed central vision, and healthy OCT images show well-defined retinal layers without fluid accumulation or abnormal deposits.",
+  "why_it_occurs": "When retinal tissue is healthy, the layered structure of the retina remains stable and free of degeneration, swelling, or abnormal blood vessel growth.",
+  "commonly_seen_in": "Normal OCT findings are commonly seen in individuals with healthy macular function and no signs of age-related macular degeneration or related retinal conditions.",
+  "common_symptoms": [
+    "Clear central vision",
+    "No distortion of straight lines",
+    "No dark or blurred spots in central vision"
+  ],
+  "risk_factors": [
+    "Age-related changes",
+    "Smoking",
+    "Family history of retinal diseases",
+    "Long-term exposure to ultraviolet light"
+  ],
+  "early_detection_importance": "Regular OCT imaging helps monitor the health of the macula and allows early detection of conditions such as macular degeneration before significant vision loss occurs.",
+  "lifestyle_considerations": [
+    "Maintain a healthy diet rich in leafy greens",
+    "Avoid smoking",
+    "Attend regular eye examinations",
+    "Protect eyes from excessive sunlight exposure"
+  ],
+  "when_to_seek_clinician": "If symptoms such as distorted vision, blurred central vision, or difficulty recognizing faces occur, consultation with an eye care professional is recommended.",
+  "disclaimer": "This interpretation is based on automated image analysis and should not be considered a medical diagnosis."
+  },
+
+  "DED": {
+    "name": "Dry Eye Disease",
+    "short_description": "A common eye condition in which the eyes do not produce enough tears or the tears evaporate too quickly.",
+    "what_is_it": "Dry eye disease occurs when the eyes do not produce sufficient tears or when the quality of tears is inadequate to keep the eye surface properly lubricated. Tears play an important role in maintaining comfort, protecting the eye surface, and supporting clear vision.",
+    "why_it_occurs": "Dry eye can develop due to reduced tear production, increased tear evaporation, or imbalances in tear composition. Environmental factors, prolonged screen use, aging, and certain medications can contribute to the condition.",
+    "commonly_seen_in": "Dry eye disease is common among individuals who spend long hours using digital devices, those living in dry or air-conditioned environments, and older adults.",
+    "common_symptoms": [
+      "Burning or stinging sensation in the eyes",
+      "Redness or irritation",
+      "Feeling of dryness or grittiness",
+      "Sensitivity to light",
+      "Temporary blurred vision"
+    ],
+    "risk_factors": [
+      "Extended screen use",
+      "Dry or windy environments",
+      "Aging",
+      "Contact lens use",
+      "Certain medications such as antihistamines",
+      "Hormonal changes"
+    ],
+    "early_detection_importance": "Recognizing symptoms early and seeking appropriate eye care guidance can help manage discomfort and maintain eye surface health.",
+    "lifestyle_considerations": [
+      "Take regular breaks during screen use",
+      "Blink frequently when working on digital devices",
+      "Maintain adequate hydration",
+      "Use humidifiers in dry environments",
+      "Follow eye care professional recommendations if symptoms persist"
+    ],
+    "when_to_seek_clinician": "If dryness, irritation, or visual discomfort persists despite simple measures such as resting the eyes or adjusting the environment, consulting an eye care professional is advisable.",
+    "disclaimer": "This information is provided for general educational purposes and does not replace professional medical advice or diagnosis."
+  },
+
+  "Slitlamp_Normal": {
+  "name": "No Detectable Ocular Surface Abnormality",
+  "short_description": "The eye surface appears healthy with no strong signs of dry eye disease.",
+  "what_is_it": "A normal slit-lamp image suggests that the front structures of the eye, including the cornea, conjunctiva, and tear film, appear healthy and well hydrated.",
+  "why_it_occurs": "Healthy tear production and balanced tear composition help maintain a stable tear film that protects and lubricates the ocular surface.",
+  "commonly_seen_in": "Normal ocular surface findings are common in individuals with balanced tear production and minimal environmental stress on the eyes.",
+  "common_symptoms": [
+    "Comfortable eye sensation",
+    "No persistent dryness or irritation",
+    "Stable visual clarity"
+  ],
+  "risk_factors": [
+    "Extended screen time",
+    "Air-conditioned environments",
+    "Contact lens use",
+    "Hormonal changes",
+    "Aging"
+  ],
+  "early_detection_importance": "Monitoring ocular surface health helps detect early signs of dry eye disease before symptoms become severe.",
+  "lifestyle_considerations": [
+    "Take regular breaks during prolonged screen use",
+    "Blink frequently when working on digital devices",
+    "Stay well hydrated",
+    "Maintain proper lighting when reading or working"
+  ],
+  "when_to_seek_clinician": "If persistent dryness, irritation, redness, or blurred vision occurs, an eye care professional should be consulted.",
+  "disclaimer": "This information is educational and does not replace professional medical evaluation."
+  },
+
+  "Possible DED": {
+  "name": "Possible Dry Eye Disease",
+  "short_description": "Mild or early signs of dry eye disease were detected. Symptoms may be intermittent or triggered by environment.",
+  "what_is_it": "Possible Dry Eye Disease means that some features suggestive of dry eye are present, but they are not severe or conclusive. The tear film may be slightly unstable, or there may be occasional dryness.",
+  "why_it_occurs": "Early dry eye can result from prolonged screen use, dry environments, contact lens wear, or natural age‑related changes in tear production.",
+  "commonly_seen_in": "People who work on computers, live in air‑conditioned or windy climates, or wear contact lenses.",
+  "common_symptoms": [
+    "Occasional burning or stinging",
+    "Intermittent gritty sensation",
+    "Mild redness after long tasks",
+    "Temporary blur that improves with blinking"
+  ],
+  "risk_factors": [
+    "Extended digital device use",
+    "Low humidity environments",
+    "Contact lens use",
+    "Aging",
+    "Certain medications (antihistamines, decongestants)"
+  ],
+  "early_detection_importance": "Identifying possible dry eye early allows you to adopt simple habits (blinking exercises, hydration, screen breaks) before symptoms become chronic.",
+  "lifestyle_considerations": [
+    "Take a 20‑second break every 20 minutes (20‑20‑20 rule)",
+    "Use artificial tears if needed",
+    "Stay hydrated",
+    "Use a humidifier at home or work"
+  ],
+  "when_to_seek_clinician": "If symptoms worsen, persist despite self‑care, or affect your daily activities, consult an eye care professional for a full dry eye evaluation.",
+  "disclaimer": "This is an AI‑generated suggestion. A clinician should confirm the diagnosis and recommend treatment."
+  },
+  
+  "Uncertain (review manually)": {
+  "name": "Uncertain – Manual Review Recommended",
+  "short_description": "The system is uncertain between diabetic retinopathy and glaucoma. A specialist should review the image.",
+  "what_is_it": "This result means the model detected high probabilities for both diabetic retinopathy (DR) and glaucoma, but they are very close. The image may have unusual features or overlapping signs that confuse the algorithm.",
+  "why_it_occurs": "Some fundus images can show features common to both conditions, such as optic disc changes and retinal vascular abnormalities. The AI cannot confidently separate them.",
+  "commonly_seen_in": "Cases with concurrent pathology, poor image quality, or atypical presentations.",
+  "common_symptoms": [
+    "May include vision changes, but not specific to either disease"
+  ],
+  "risk_factors": [
+    "Diabetes and high eye pressure coexist",
+    "Advanced retinal changes",
+    "Image artefacts or uneven illumination"
+  ],
+  "early_detection_importance": "Because the system is uncertain, a human expert is essential to avoid misdiagnosis. Both conditions require different management.",
+  "lifestyle_considerations": [
+    "No specific recommendations until a definitive diagnosis is made"
+  ],
+  "when_to_seek_clinician": "Immediately – schedule an appointment with an ophthalmologist for a dilated fundus exam and visual field testing.",
+  "disclaimer": "System uncertainty is high. Do not rely on this result for treatment decisions. Manual review by a qualified eye care professional is mandatory."
+  }
+}
