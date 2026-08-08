@@ -1,5 +1,0 @@
-Disease,Modality,Architecture,AUC,Accuracy (%),Sensitivity (%),Specificity (%),F1 (%)
-DR,Fundus,EfficientNetV2-S,0.9166,85.7,81.5,87.1,74.3
-Glaucoma,Fundus,ConvNeXt-Tiny,0.9618,90.3,86.3,92.9,87.3
-AMD,OCT,DenseNet-121,1.0,100.0,100.0,100.0,100.0
-DED,Slit-lamp,EfficientNet-B0,0.9208,90.4,85.3,93.9,87.9
