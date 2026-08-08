@@ -51,12 +51,12 @@ The system uses **four disease‑specific expert models** (EfficientNetV2‑S, C
 
 ### External Validation
 
-| Disease | External Dataset | Threshold | AUC | Sensitivity (%) | Specificity (%) |
-|---------|------------------|-----------|-----|-----------------|-----------------|
-| DR      | Messidor‑2       | 0.45 (TTA) | 0.8364 | 70.3 | 84.1 |
-| Glaucoma| REFUGE2          | 0.98      | 0.8995 | 80.0 | 90.0 |
-| AMD     | OCT2017          | 0.5       | 0.99998 | 99.8 | 100.0 |
-| DED     | Roboflow DED     | 0.539     | 0.7126 | 56.2 | 76.0 |
+| Disease | External Dataset | Threshold | Accuracy (%) | AUC | Sensitivity (%) | Specificity (%) |
+|---------|------------------|-----------|--------------|-----|-----------------|-----------------|
+| DR      | Messidor‑2       | 0.45      | 78.7         | 0.8440 | 74.6 | 81.6 |
+| Glaucoma| REFUGE2          | 0.98      | 89.0         | 0.8995 | 80.0 | 90.0 |
+| AMD     | OCT2017          | 0.5       | 99.9         | 0.99998 | 99.8 | 100.0 |
+| DED     | Roboflow DED     | 0.539     | 63.3         | 0.7126 | 56.2 | 76.0 |
 
 ### Fusion Architecture Comparison (Macro AUC)
 
